@@ -47,3 +47,4 @@ Yes, the switcher includes a color editor for supported themes.
 
 MIT
  
+ 
